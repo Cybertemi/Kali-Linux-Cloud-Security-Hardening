@@ -6,8 +6,11 @@ This project focuses on hardening a **Kali Linux cloud server** using **Bash scr
 ## Hardening measures:
 
 **Disable root login for SSH security**
+
 **Configure the firewall ('ufw') to allow only OpenSSH**
+
 **Install and configure 'fail2ban too block brute-force attacks**
+
 **Update & patch system vulnerabilities**
 
 ## Usage Guide:
