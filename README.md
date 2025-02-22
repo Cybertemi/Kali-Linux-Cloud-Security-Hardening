@@ -27,7 +27,9 @@ sudo systemctl status fail2ban
 sudo ufw status
 
 **Repository Management**
+
 ##Push the script to github:
+
 git add README.MD
 git commit -m "Updated README for Kali Linux Cloud Security Hardening project"
 git push origin main
