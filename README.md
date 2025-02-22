@@ -1,4 +1,4 @@
-# Kali Linux Cloud Security Hardening**
+# Kali Linux Cloud Security Hardening
 
 ## Project Overview
 This project focuses on hardening a **Kali Linux cloud server** using **Bash script** to automate essential security configurations
