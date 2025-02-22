@@ -3,7 +3,8 @@
 ## Project Overview
 This project focuses on hardening a **Kali Linux cloud server** using **Bash script** to automate essential security configurations
 
-##Hardening measures:
+## Hardening measures:
+
 **Disable root login for SSH security**
 **Configure the firewall ('ufw') to allow only OpenSSH**
 **Install and configure 'fail2ban too block brute-force attacks**
@@ -26,7 +27,7 @@ sudo ufw status
 
 **Repository Management**
 ##Push the script to github:
-git add Secure_ali.sh README.MD
+git add README.MD
 git commit -m "Updated README for Kali Linux Cloud Security Hardening project"
 git push origin main
 
