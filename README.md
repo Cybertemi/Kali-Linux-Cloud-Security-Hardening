@@ -28,7 +28,7 @@ sudo ufw status
 
 **Repository Management**
 
-##Push the script to github:
+## Push the script to github:
 
 git add README.MD
 
@@ -36,19 +36,19 @@ git commit -m "Updated README for Kali Linux Cloud Security Hardening project"
 
 git push origin main
 
-**Prerequisites**:
+## Prerequisites:
 Before running the script, ensure your Kali Linux Cloud Server has the following installed:
 
-**Git- install with sudo apt install git -y
+**Git**- install with sudo apt install git -y
 
-**UFW (Uncomplicated firewall)- install using sudo apt install ufw -y
+**UFW (Uncomplicated firewall)**- install using sudo apt install ufw -y
 
-**Fail2Ban- nstalll using sudo apt install fail2ban -y
+**Fail2Ban**- nstalll using sudo apt install fail2ban -y
 
 
-##Connect, Contribute & Share**
+## Connect, Contribute & Share
 
-Temitope Ilori
+**Temitope Ilori**
 
 **Linkedin**: https://www.linkedin.com/in/iloritemi
 
