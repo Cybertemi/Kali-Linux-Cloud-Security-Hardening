@@ -23,6 +23,7 @@ sudo ./Secure_kali.sh
 
 ## **Step 4: Verify security measures**:
 sudo systemctl status fail2ban
+
 sudo ufw status
 
 **Repository Management**
